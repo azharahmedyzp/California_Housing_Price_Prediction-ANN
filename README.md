@@ -94,6 +94,4 @@ Key takeaways:
 * [Keras Sequential API](https://www.tensorflow.org/guide/keras/sequential_model)
 * [Dropout Regularization in Neural Networks](https://www.tensorflow.org/tutorials/keras/regression)
 
-```
-
 ---
